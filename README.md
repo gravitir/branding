@@ -1,5 +1,4 @@
 # Gravitir AG
-Resources
 
 ## Company
 
