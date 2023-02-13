@@ -3,13 +3,9 @@ Resources
 
 ## Company
 
-Gravitir AG
-Gewerbestrasse 6
-6330 Cham
-Switzerland
+Gravitir AG | Gewerbestrasse 6 | 6330 Cham | Switzerland
 
-Email: info@gravitir.ch
-Tel: +41 32 510 19 55
+Email: info@gravitir.ch | Tel: +41 32 510 19 55
 
 
 ### Authorized representative(s)
