@@ -1,5 +1,7 @@
 # Gravitir AG
 
+Public corporate resources and branding
+
 ## Company
 
 Gravitir AG | Gewerbestrasse 6 | 6330 Cham | Switzerland
