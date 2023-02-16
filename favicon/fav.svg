@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.71 22.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d54121;
+      }
+    </style>
+  </defs>
+  <g id="logoMark">
+    <a xlink:href="58.5419607843137">
+      <path id="logoMark__PathItem_" data-name="logoMark &amp;lt;PathItem&amp;gt;" class="cls-1" d="M7.83,19.09c-2.01,0-3.47-1.55-3.47-3.72H.1c0,4.23,3.12,7.51,7.7,7.51s7.73-3.28,7.73-7.51h-4.26c0,2.17-1.46,3.72-3.45,3.72Z"/>
+    </a>
+    <path id="logoMark__CompoundPathItem_" data-name="logoMark &amp;lt;CompoundPathItem&amp;gt;" class="cls-1" d="M11.71,.86c-1.11-.55-2.4-.86-3.84-.86C3.15,0,0,3.26,0,7.47s3.17,7.47,7.84,7.47,7.87-3.26,7.87-7.47c0-.03,0-.06,0-.1h0V.37h-4v.49Zm-3.9,10.47c-1.98,0-3.45-1.52-3.45-3.72s1.46-3.72,3.45-3.72,3.47,1.55,3.47,3.72-1.46,3.72-3.47,3.72Z"/>
+  </g>
+</svg>
